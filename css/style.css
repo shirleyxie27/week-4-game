@@ -1,0 +1,22 @@
+body{
+	background: url("weather.png")no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.jumbotron{
+	background: url("weather.png")no-repeat center center fixed;
+	text-align: left;
+	margin-top: 10px;
+}
+
+#panelStyle{
+	float:left;
+	margin: 10px 20px 10px 0px;
+}
+
+.crystal{
+	height: 70px;
+	width: 70px;
+}
